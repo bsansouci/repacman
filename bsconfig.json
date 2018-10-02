@@ -1,7 +1,7 @@
 {
   "name": "repacman",
   "sources": "src",
-  "bs-dependencies": ["Reprocessing"],
+  "bs-dependencies": ["reprocessing"],
   "entries": [
     {
       "backend": "bytecode",
